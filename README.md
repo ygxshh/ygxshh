@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yogesh Mishra
-- 👀 I’m interested in learmimg new things
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently pursuing baecholors in Electronics and Communication Engineering
 
 
