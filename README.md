@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yogesh Mishra
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently pursuing baecholors in Electronics and Communication Engineering
+- 🌱 I’m currently pursuing bachelor in Electronics and Communication Engineering
 
 
 <!---
