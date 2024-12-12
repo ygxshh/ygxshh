@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yogesh Mishra</h1>
+<h1 align="center">Hi 👋, I'm Yogesh</h1>
 
 - 🔭 I’m currently working on [Journal App](https://github.com/ygxshh/JournalApp)
 
