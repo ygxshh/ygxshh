@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yogesh</h1>
 
-- 🔭 I’m currently working on [Journal App](https://github.com/ygxshh/JournalApp)
-
-- 🌱 I’m currently learning **Spring Boot**
+🛡️ Cybersecurity enthusiast | Learning ethical hacking, networking, and Linux | Sharing projects and labs from my learning journey
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
