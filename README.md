@@ -14,7 +14,8 @@
 
 ## 🧠 TryHackMe Profile
 
-![TryHackMe badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4118329)
+![TryHackMe badge]<img src="https://tryhackme-badges.s3.amazonaws.com/try4ackme.png" alt="TryHackMe Badge" />
+
 
 
 
