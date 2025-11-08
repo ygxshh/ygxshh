@@ -14,7 +14,8 @@
 
 ## 🧠 TryHackMe Profile
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4118329" style='border:none;'></iframe>
+![TryHackMe badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4118329)
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ygxshh&show_icons=true&locale=en&layout=compact" alt="ygxshh" /></p>
